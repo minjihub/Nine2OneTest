@@ -24,7 +24,7 @@ Open API "Kakao 로컬 > 키워드로 검색"을 사용해 장소를 검색하�
  
 검색 결과 tile에 API 응답의 place_name, address_name, distance 포함
  - distance(중심좌표까지의 거리)를 얻기 위해 현 위치의 x,y 좌표를 구한 뒤 값 전송
- - 현 위치를 허용시킬 퍼미션 요청 처리
+ - 현 위치 추적을 허용시킬 퍼미션 요청 처리
 
 <br>
  

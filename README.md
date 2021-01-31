@@ -32,6 +32,3 @@ Open API "Kakao 로컬 > 키워드로 검색"을 사용해 장소를 검색하�
 <br />
 3. 아이템 클릭 시 웹뷰로 이동
 <img src="https://user-images.githubusercontent.com/70570798/106389705-1644a900-6428-11eb-9615-d30c3aef124c.jpg"  width="350" height="600">
-
-
-감사합니다.

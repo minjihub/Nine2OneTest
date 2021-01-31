@@ -27,8 +27,10 @@ Open API "Kakao 로컬 > 키워드로 검색"을 사용해 장소를 검색하�
 1. 위치 퍼미션 요청
 <img src="https://user-images.githubusercontent.com/70570798/106389689-fe6d2500-6427-11eb-885e-ae314bd44657.jpg"  width="350" height="600">
 <br />
+
 2. 메인페이지
-<img src="https://user-images.githubusercontent.com/70570798/106389699-0b8a1400-6428-11eb-8f59-214e694ddf09.jpg"  width="350" height="600">
+<img src="https://user-images.githubusercontent.com/70570798/106390809-94577e80-642d-11eb-95f8-94cf98eec09a.jpg"  width="350" height="600">
 <br />
+
 3. 아이템 클릭 시 웹뷰로 이동
-<img src="https://user-images.githubusercontent.com/70570798/106389705-1644a900-6428-11eb-9615-d30c3aef124c.jpg"  width="350" height="600">
+<img src="https://user-images.githubusercontent.com/70570798/106390832-a6d1b800-642d-11eb-8e58-f96cf0838bda.jpg"  width="350" height="600">

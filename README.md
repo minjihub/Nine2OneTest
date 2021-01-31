@@ -1,13 +1,16 @@
 # Nine2OneTest
 Open API "Kakao 로컬 > 키워드로 검색"을 사용해 장소를 검색하는 앱 개발
+<br>
 
-### 언어
+## 언어
 - Kotlin
+<br>
 
-### 라이브러리
+## 라이브러리
 - Retrofit2
+<br>
 
-### 검색 로직
+## 검색 로직
 검색어 입력 후 0.5초 뒤 자동 검색
  - EditText의 입력이 끝나면 Handler postDelayed를 사용해 0.5초 뒤 검색
  
@@ -17,7 +20,9 @@ Open API "Kakao 로컬 > 키워드로 검색"을 사용해 장소를 검색하�
 검색 결과 클릭 시 해당 결과의 place_url을 로드하는 웹뷰로 이동
  - place_url이 null일 경우 웹뷰를 finish하여 이동이 안되는 것처럼 보이게 처리
 
-### 결과
+<br>
+
+## 결과
 1. 위치 퍼미션 요청
 <img src="https://user-images.githubusercontent.com/70570798/106389689-fe6d2500-6427-11eb-885e-ae314bd44657.jpg"  width="350" height="600">
 <br />

@@ -43,8 +43,8 @@ Kakao API 통신 부분을 완료한 뒤, 페이지네이션 처리 로직을 �
 1페이지의 15개의 값만 보여주고 있었습니다. <br>
 <br>
 이를 참고하여 size는 10으로 변경하고, 스크롤이 맨 밑으로 내려갔을 때 그 다음 페이지의 값을 요청하여 결과 값을 RecyclerView List에 추가해주는 방식으로 로직을 그렸습니다. <br>
-그 결과, 마지막 스크롤의 포지션을 알 수 있는 findLastCompletelyVisibleItemPosition 이라는 메소드가 존재하여 이것과 총 리스트의 수를 비교하고 같을 경우 다음 페이지를 로드하여 리스트에 추가한 뒤
-notifyDataSetChanged를 하도록 작성하여 해결할 수 있었습니다.
+그 결과, 마지막 스크롤의 포지션을 알 수 있는 findLastCompletelyVisibleItemPosition 이라는 메소드가 존재하여 이것과 총 리스트의 수를 비교하고 
+같을 경우 다음 페이지를 로드하여 리스트에 추가한 뒤 notifyDataSetChanged를 하도록 만들었습니다.
 
 
 <br>
